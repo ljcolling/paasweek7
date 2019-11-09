@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573236776832.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C67D0594",
+    "lastKnownWriteTime" : 1573237918,
+    "last_content_update" : 1573237918331,
+    "path" : "~/documents/r_packages/paasweek7/R/functions.R",
+    "project_path" : "R/functions.R",
+    "properties" : {
+        "cursorPosition" : "20,3",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
